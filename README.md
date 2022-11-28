@@ -1,3 +1,4 @@
+# challenge-1
 # netSalary
    This code calculates an individual’s Net Salary by getting the inputs of basic salary and benefits. 
 # speedDetector
@@ -5,4 +6,4 @@
 # grading
   It prompts the user to input student marks. 
   The grades are A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.# week1-code-challenge
-# challenge-1
+
